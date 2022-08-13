@@ -67,11 +67,11 @@
 			</plugin>
 		</plugins>
 	</build>
-	<distributionManagement>
+<distributionManagement>
     <repository>
         <id>central</id>
-        <name>a0zogzhj8pfv0-artifactory-primary-0-releases</name>
-        <url>https://dtp5.jfrog.io/artifactory/dpt5-libs-release-local</url>
+        <name>a0m4qvtcnxgmo-artifactory-primary-0-releases</name>
+        <url>https://shadestudio.jfrog.io/artifactory/loginapp-maven-6590-libs-release-local</url>
     </repository>
 </distributionManagement>
  
