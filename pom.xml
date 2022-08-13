@@ -67,4 +67,12 @@
 			</plugin>
 		</plugins>
 	</build>
+	<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>a0m4qvtcnxgmo-artifactory-primary-0-releases</name>
+        <url>https://shadestudio.jfrog.io/artifactory/loginapp-maven-6590-libs-release-local</url>
+    </repository>
+</distributionManagement>
+
 </project>
