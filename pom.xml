@@ -12,7 +12,7 @@
 	<artifactId>dptweb</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
-	<name>dptweb</name>
+	<name>loginapp-maven-6590</name>
 	<description>DPT DevOps project for Spring Boot</description>
 
 	<properties>
